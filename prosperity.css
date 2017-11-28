@@ -63,3 +63,11 @@ body {
     font-size: 125px;
     font-weight: 300;
 }
+.donate{
+    position:absolute;
+    font-size:14px
+}
+.donate a{
+    color:red;
+    font-size:initial;
+}
